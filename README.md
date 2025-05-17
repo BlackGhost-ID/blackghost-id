@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+![zerotwo dance](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3ajdhbm91b204MmFmODZ2OWtvbnc4ZjJya25uYWdnanp3aWd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10YWqUivkQPeeJWD3u/giphy.gif)
+
 <img src="https://raw.githubusercontent.com/blackghost-id/blackghost-id/output/snake.svg" alt="Snake animation" />
 
 ###
