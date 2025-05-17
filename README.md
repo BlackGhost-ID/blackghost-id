@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 ![Header](./img/github-header-image.png)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/blackghost-id/count.svg?"  />
+</div>
+
+###
+
 ##### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Website for 7icons**
@@ -27,6 +33,16 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,alpinejs,bootstrap,tailwind&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,blender&theme=light)
+
+##### My Spotify List
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31yj7d3lgu6q7zvhps5vtg6gtudu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yj7d3lgu6q7zvhps5vtg6gtudu&count=8" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ##### 📫 Connect With Me
 
