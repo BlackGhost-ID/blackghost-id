@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![Header](./img/github-header-image.png)
 
 <div align="center">
@@ -67,3 +67,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/blackghost-id/blackghost-id/output/snake.svg" alt="Snake animation" />
 
 ###
+
+</div>
