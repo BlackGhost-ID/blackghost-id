@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ##### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Website for 7icons**
-- 🌱 I’m currently learning **Discord.js**
+- 🌱 I’m currently learning **Discord.js and Laravel**
 - ⚡ Fun fact: **I ❤️ Anime**
 - 😄 Pronouns: **He/Him**
 
@@ -32,7 +32,17 @@ Here are some ideas to get you started:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,alpinejs,bootstrap,tailwind&theme=light)
 
+![my skill](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,blender&theme=light)
+
+##### My favorite Food
+
+![My Favorite Food](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white) ![My Favorite Food](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white) ![My Favorite Food](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+
+##### My Favorite Game
+
+![My Favorite Game](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![My Favorite Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![My Favorite Game](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![My Favorite Game](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
 
 ##### My Spotify List
 
