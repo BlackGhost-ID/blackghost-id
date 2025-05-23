@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
 ![Header](./img/github-header-image.png)
 
 <div align="center">
