@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ##### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Website for 7icons**
-- 🌱 I’m currently learning **Discord.js and Laravel**
-- ⚡ Fun fact: **I ❤️ Anime**
-- 😄 Pronouns: **He/Him**
+🔭 I’m currently working on **Website for 7icons**
+🌱 I’m currently learning **Discord.js and Laravel**
+⚡ Fun fact: **I ❤️ Anime**
+😄 Pronouns: **He/Him**
 
 ##### 🛠️ Languages & Tools
 
